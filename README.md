@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinghAnuj29
 - 👀 I’m interested in Coding
-- 🌱 I’m currently persuing Computer Science Engineering From Mumbai University
+- 🌱 I’m currently pursuing  Computer Science Engineering From Mumbai University
 - 📫 Contact me :- anujsinghnov3@gmail.com
 
 <!---
