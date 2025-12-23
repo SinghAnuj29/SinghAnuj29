@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinghAnuj29
 - 👀 I’m interested in Coding
-- 🌱 I’m currently pursuing  Computer Science Engineering From Mumbai University
-- 📫 Contact me :- anujsinghnov3@gmail.com
+- 🌱 Bachelor's in Computer Science Engineering From Mumbai University
+- 📫 Contact me :- anujthengineer@gmail.com
 
 <!---
 SinghAnuj29/SinghAnuj29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
